@@ -2,3 +2,4 @@
 update UI layout
 add new feature
 fix typo text
+mprove loading time
