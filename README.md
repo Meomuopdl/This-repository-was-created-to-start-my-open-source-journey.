@@ -7,3 +7,4 @@ adjust margin spacing
 update config file
 add error handling
 improve mobile view
+adjust font size
