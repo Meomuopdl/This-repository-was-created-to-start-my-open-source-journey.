@@ -9,3 +9,4 @@ add error handling
 improve mobile view
 adjust font size
 update sidebar menu
+improve responsiveness
