@@ -13,3 +13,4 @@ improve responsiveness
 adjust button color
 update footer content
 improve error message
+adjust card shadow
