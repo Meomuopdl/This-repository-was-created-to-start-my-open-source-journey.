@@ -16,3 +16,4 @@ improve error message
 adjust card shadow
 update navbar links
 improve tooltip display
+adjust input border
