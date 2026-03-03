@@ -11,3 +11,4 @@ adjust font size
 update sidebar menu
 improve responsiveness
 adjust button color
+update footer content
