@@ -15,3 +15,4 @@ update footer content
 improve error message
 adjust card shadow
 update navbar links
+improve tooltip display
