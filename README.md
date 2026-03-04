@@ -22,3 +22,4 @@ improve dropdown UX
 improve dropdown UX
 adjust modal size
 update icon set
+improve table sorting
