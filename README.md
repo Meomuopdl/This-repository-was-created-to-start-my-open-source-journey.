@@ -25,3 +25,4 @@ update icon set
 improve table sorting
 adjust grid spacing
 update animation speed
+improve form layout
