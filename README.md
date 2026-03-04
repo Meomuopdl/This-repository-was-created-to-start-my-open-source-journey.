@@ -27,3 +27,4 @@ adjust grid spacing
 update animation speed
 improve form layout
 adjust header height
+update landing page
