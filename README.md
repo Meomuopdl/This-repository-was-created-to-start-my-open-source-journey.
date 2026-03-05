@@ -49,3 +49,4 @@ update settings page
 improve search bar
 adjust button radius
 update notification UI
+improve overall stability
