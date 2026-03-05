@@ -38,3 +38,4 @@ improve loading spinner
 adjust sidebar width
 update user avatar
 improve card layout
+adjust text alignment
