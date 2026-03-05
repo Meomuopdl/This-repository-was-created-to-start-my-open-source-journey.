@@ -47,3 +47,4 @@ improve sidebar UX
 adjust footer spacing
 update settings page
 improve search bar
+adjust button radius
