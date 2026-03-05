@@ -29,3 +29,4 @@ improve form layout
 adjust header height
 update landing page
 improve button hover
+adjust container width
