@@ -33,3 +33,4 @@ adjust container width
 update alert message
 improve dashboard chart
 adjust image ratio
+update form labels
