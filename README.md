@@ -34,3 +34,4 @@ update alert message
 improve dashboard chart
 adjust image ratio
 update form labels
+improve loading spinner
