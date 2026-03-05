@@ -40,3 +40,4 @@ update user avatar
 improve card layout
 adjust text alignment
 update hero section
+improve modal animation
