@@ -45,3 +45,4 @@ adjust padding layout
 update profile page
 improve sidebar UX
 adjust footer spacing
+update settings page
