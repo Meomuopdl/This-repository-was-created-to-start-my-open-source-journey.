@@ -32,3 +32,4 @@ improve button hover
 adjust container width
 update alert message
 improve dashboard chart
+adjust image ratio
