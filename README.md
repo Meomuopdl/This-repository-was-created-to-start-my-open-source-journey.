@@ -30,3 +30,4 @@ adjust header height
 update landing page
 improve button hover
 adjust container width
+update alert message
