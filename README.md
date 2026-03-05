@@ -37,3 +37,4 @@ update form labels
 improve loading spinner
 adjust sidebar width
 update user avatar
+improve card layout
