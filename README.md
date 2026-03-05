@@ -42,3 +42,4 @@ adjust text alignment
 update hero section
 improve modal animation
 adjust padding layout
+update profile page
