@@ -43,3 +43,4 @@ update hero section
 improve modal animation
 adjust padding layout
 update profile page
+improve sidebar UX
