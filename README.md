@@ -35,3 +35,4 @@ improve dashboard chart
 adjust image ratio
 update form labels
 improve loading spinner
+adjust sidebar width
