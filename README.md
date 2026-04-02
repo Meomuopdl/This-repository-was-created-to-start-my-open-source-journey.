@@ -52,3 +52,4 @@ update notification UI
 improve overall stability
 Improving markdown headings structure.
 Exploring on-chain data basics.
+Refining project description.
