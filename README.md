@@ -56,3 +56,4 @@ Refining project description.
 Exploring audit methodologies.
 Improving technical note clarity.
 Exploring staking concepts.
+Studying API documentation structure.
