@@ -62,3 +62,4 @@ Exploring hash functions briefly.
 Exploring developer tooling options.
 Summarizing current development stage.
 Learning how smart contracts interact with frontends.
+Researching validator incentives.
