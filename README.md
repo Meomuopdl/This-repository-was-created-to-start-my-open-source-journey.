@@ -65,3 +65,4 @@ Learning how smart contracts interact with frontends.
 Researching validator incentives.
 Learning about blockchain bridges.
 Exploring upgradeable contract design.
+Improving clarity in technical explanations.
