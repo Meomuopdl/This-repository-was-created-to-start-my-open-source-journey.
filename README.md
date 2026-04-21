@@ -66,3 +66,4 @@ Researching validator incentives.
 Learning about blockchain bridges.
 Exploring upgradeable contract design.
 Improving clarity in technical explanations.
+Learning about blockchain indexing services.
