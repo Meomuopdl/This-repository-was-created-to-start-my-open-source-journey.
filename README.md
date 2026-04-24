@@ -69,3 +69,4 @@ Improving clarity in technical explanations.
 Learning about blockchain indexing services.
 Refining repository learning structure.
 Studying slippage mechanics.
+Improving organization of research notes.
