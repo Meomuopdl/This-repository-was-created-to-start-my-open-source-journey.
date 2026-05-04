@@ -72,3 +72,4 @@ Studying slippage mechanics.
 Improving organization of research notes.
 Improving documentation flow again.
 Improving repository transparency.
+Improving code readability awareness.
