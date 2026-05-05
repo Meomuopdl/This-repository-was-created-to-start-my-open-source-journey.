@@ -73,3 +73,4 @@ Improving organization of research notes.
 Improving documentation flow again.
 Improving repository transparency.
 Improving code readability awareness.
+Exploring gas estimation strategies.
