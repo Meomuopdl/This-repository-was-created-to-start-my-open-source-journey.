@@ -74,3 +74,4 @@ Improving documentation flow again.
 Improving repository transparency.
 Improving code readability awareness.
 Exploring gas estimation strategies.
+Learning about proof of stake design.
