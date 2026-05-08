@@ -76,3 +76,4 @@ Improving code readability awareness.
 Exploring gas estimation strategies.
 Learning about proof of stake design.
 Studying borrowing collateral models.
+Improving consistency in learning logs.
