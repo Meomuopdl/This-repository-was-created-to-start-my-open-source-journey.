@@ -79,3 +79,4 @@ Studying borrowing collateral models.
 Improving consistency in learning logs.
 Improving project milestone clarity.
 Adding more incremental documentation updates.
+Reviewing smart contracts
