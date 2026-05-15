@@ -81,3 +81,4 @@ Improving project milestone clarity.
 Adding more incremental documentation updates.
 Reviewing smart contracts
 Reviewing wallet security
+Learning testing basics.<br>
