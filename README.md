@@ -85,3 +85,4 @@ Learning testing basics.<br>
 Reviewing gas fees
 Reviewing transaction flow
 Reviewing mempool flow
+Studying smart contract logs
