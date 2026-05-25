@@ -87,3 +87,4 @@ Reviewing transaction flow
 Reviewing mempool flow
 Studying smart contract logs
 Studying oracle feeds
+Reviewing mock contracts
