@@ -90,3 +90,4 @@ Studying oracle feeds
 Reviewing mock contracts
 Improving repo layout
 Tracking Web3 tools
+Improving readability
