@@ -92,3 +92,4 @@
 - Tracking Web3 tools
 - Improving readability
 - Updating reflections
+- Exploring Layer2
