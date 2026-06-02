@@ -93,3 +93,4 @@
 - Improving readability
 - Updating reflections
 - Exploring Layer2
+- Reviewing liquidity
