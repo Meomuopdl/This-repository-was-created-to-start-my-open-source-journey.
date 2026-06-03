@@ -94,3 +94,4 @@
 - Updating reflections
 - Exploring Layer2
 - Reviewing liquidity
+- Exploring testing tools
