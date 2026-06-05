@@ -96,3 +96,4 @@
 - Reviewing liquidity
 - Exploring testing tools
 - Exploring scalability
+- Reviewing token models
