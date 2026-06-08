@@ -97,3 +97,4 @@
 - Exploring testing tools
 - Exploring scalability
 - Reviewing token models
+- Improving documentation skills
