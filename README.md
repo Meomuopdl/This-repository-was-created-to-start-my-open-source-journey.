@@ -99,3 +99,4 @@
 - Reviewing token models
 - Improving documentation skills
 - Refining markdown
+- Adding details
