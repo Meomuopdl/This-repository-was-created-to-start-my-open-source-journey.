@@ -100,3 +100,4 @@
 - Improving documentation skills
 - Refining markdown
 - Adding details
+- Refining structure
