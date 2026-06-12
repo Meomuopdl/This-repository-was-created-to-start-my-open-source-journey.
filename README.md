@@ -101,3 +101,4 @@
 - Refining markdown
 - Adding details
 - Refining structure
+- Updating notes
