@@ -102,3 +102,4 @@
 - Adding details
 - Refining structure
 - Updating notes
+- Refining formatting
