@@ -103,3 +103,4 @@
 - Refining structure
 - Updating notes
 - Refining formatting
+- Practicing consistent commit messages.
