@@ -104,3 +104,4 @@
 - Updating notes
 - Refining formatting
 - Practicing consistent commit messages.
+- Learning about GitHub collaboration tools.
