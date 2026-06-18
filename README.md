@@ -105,3 +105,4 @@
 - Refining formatting
 - Practicing consistent commit messages.
 - Learning about GitHub collaboration tools.
+- Adding development roadmap ideas.
