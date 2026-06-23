@@ -107,3 +107,4 @@
 - Learning about GitHub collaboration tools.
 - Adding development roadmap ideas.
 - Documenting development goals.
+- Writing better technical summaries.
