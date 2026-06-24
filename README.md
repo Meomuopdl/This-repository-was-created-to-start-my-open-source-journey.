@@ -108,3 +108,4 @@
 - Adding development roadmap ideas.
 - Documenting development goals.
 - Writing better technical summaries.
+- Improving markdown headings structure.
