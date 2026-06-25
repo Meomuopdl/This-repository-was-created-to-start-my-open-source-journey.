@@ -109,3 +109,4 @@
 - Documenting development goals.
 - Writing better technical summaries.
 - Improving markdown headings structure.
+- Improving commit discipline.
