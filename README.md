@@ -110,3 +110,4 @@
 - Writing better technical summaries.
 - Improving markdown headings structure.
 - Improving commit discipline.
+- Improving technical note clarity.
