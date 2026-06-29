@@ -111,3 +111,4 @@
 - Improving markdown headings structure.
 - Improving commit discipline.
 - Improving technical note clarity.
+- Studying API documentation structure.
